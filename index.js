@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const characterData = require('./onepiececharacters.json')
 
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 5000;
 
 app.get('/', (req, res) => {
     res.send("One Piece Characters")
