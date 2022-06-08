@@ -1,0 +1,64 @@
+{
+    "straw hat pirates": [
+        {
+            "name": "Monkey D. Luffy",
+            "devil fruit user": true,
+            "devil fruit": "Gum-Gum Fruit",
+            "abilities": "Stretches"
+        },
+        {
+            "name": "Roronoa Zoro",
+            "devil fruit user": false,
+            "devil fruit": "Not Applicable",
+            "abilities": "Swordsman"
+        },
+        {
+            "name": "Nami",
+            "devil fruit user": false,
+            "devil fruit": "Not Applicable",
+            "abilities": "Navigation"
+        },
+        {
+            "name": "Usopp",
+            "devil fruit user": false,
+            "devil fruit": "Not Applicable",
+            "abilities": "Weaponry"
+        },
+        {
+            "name": "Sanji",
+            "devil fruit user": false,
+            "devil fruit": "Not Applicable",
+            "abilities": "strong kicks"
+        },
+        {
+            "name": "Tony Tony Chopper",
+            "devil fruit user": true,
+            "devil fruit": "Human-Human Fruit",
+            "abilities": "Doctor"
+        },
+        {
+            "name": "Nico Robin",
+            "devil fruit user": true,
+            "devil fruit": "Hana-Hana Fruit",
+            "abilities": "reproduce body parts on any surface"
+        },
+        {
+            "name": "Franky",
+            "devil fruit user": false,
+            "devil fruit": "Not Applicable",
+            "abilities": "Cyborg"
+        },
+        {
+            "name": "Brook",
+            "devil fruit user": true,
+            "devil fruit": "Revive-Revive Fruit",
+            "abilities": "Unable to die, musical talent"
+        },
+        {
+            "name": "Jinbe",
+            "devil fruit user": false,
+            "devil fruit": "Not Applicable",
+            "abilities": "Fishman Karate"
+        }
+    ]
+}
