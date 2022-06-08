@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariquisha/onepieceapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mariquisha/onepieceapi/issues"
+  },
+  "homepage": "https://github.com/Mariquisha/onepieceapi#readme"
 }
